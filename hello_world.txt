@@ -1,0 +1,4 @@
+Here I am, adding some text. 
+I did this by typing open hello_world.txt in Terminal.
+
+Not sure if I should have opened in VSCode instead.
